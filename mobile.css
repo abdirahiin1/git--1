@@ -1,0 +1,15 @@
+.menus-link {
+    display: none;
+}
+
+.humbugger{
+    display: flex;
+}
+
+.humbugger i{
+font-size: 35px;
+}
+
+.hero h1{
+    font-size: 50px;
+}
